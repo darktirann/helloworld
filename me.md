@@ -1,9 +1,9 @@
-<h1 align="center"> I'm Kerem</h1>
+<h1 align="center"> I'm Ilker</h1>
 <h3 align="center">Community moderator and full stack developer</h3>
 <h3 align="center"></h3>
 
 <h3 align="left">Connect with me 
-<p> Discord: imkerem</p></h3>
+<p> Discord: darktiran</p></h3>
 <p align="left">
 </p>
 
